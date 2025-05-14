@@ -1,0 +1,12 @@
+{
+  "name": "xion-to-babylon-bot",
+  "version": "1.0.0",
+  "description": "Automated Xion to Babylon bridge bot using Puppeteer",
+  "main": "xion-to-babylon.js",
+  "scripts": {
+    "start": "node xion-to-babylon.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
